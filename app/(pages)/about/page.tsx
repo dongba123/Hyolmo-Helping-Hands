@@ -155,7 +155,7 @@ export default function AboutPage() {
       </section>
 
       {/* Team + Volunteers */}
-      <TeamSection />
+      {/* <TeamSection /> */}
 
       {/* CTA */}
       <section className="bg-white">
